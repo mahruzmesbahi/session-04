@@ -1,0 +1,28 @@
+* {
+	font-style: italic;
+}
+
+h1 {
+	color: gray;
+	font-size: 25px;
+}
+/*
+p {
+	color: gray;
+} */
+
+.para-1 {
+	background-color: black;
+	color: white;
+	padding: 5px;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#about-me {
+	background-color: silver;
+	color: black;
+	padding: 5px;
+	font-size: 15px;
+	font-weight: bold;
+}
